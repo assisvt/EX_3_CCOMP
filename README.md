@@ -1,4 +1,4 @@
-### Exercício 2 CCOMP
+# Exercício 2 CCOMP
 1. Elabore o programa que gere a sequência do dobro dos números naturais até 10 na ordem crescente.
 
 
